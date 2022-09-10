@@ -1,6 +1,6 @@
 # ROP 299
 
-This repo includes all the files created and used for this 2021 Research Opportunity Program at U of T.
+This repo includes all the files created and used for this 2021 Research Opportunity Program that I participated at U of T.
 
 For this research, a large set of student survey data is given. Programs in Python are constructed to categorize and cluster free responses using various NLP processing algorithms such as K-Means, LDA. Packages such as NLTK, Scikit-Learn and Gensim are used. Outcomes are displayed visually using displayed using Pyplot and pyLDAvis with analysis and conclusion performed in a resultant paper. 
 
